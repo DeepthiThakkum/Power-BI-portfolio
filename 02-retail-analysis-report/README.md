@@ -20,7 +20,7 @@ added as tooltips.
 
 **TY, LY and Variance** – Clustered columns comparing this year, last year, and variance
 by chain, with data labels and a table using a colour scale to flag this year's sales.
-![TY LY Variance](screenshots/TY_LY_and_Markdown.png)
+![TY LY Variance](screenshots/TY_LY_Variance.png)
 
 **Sales by Category** – Stacked bar of this year's sales by category with Chain and
 Buyer dropdown slicers.
